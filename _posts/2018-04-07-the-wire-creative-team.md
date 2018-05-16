@@ -140,3 +140,20 @@ You can copy and edit the following html code example:
     </div>
     </li>
  <!-- End Jeannie's profile -->
+ 
+<!-- Start April's profile -->
+<div class="col s12 offset-m2 l6 offset-l3">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+               <img src="{{site.baseurl}}/assets/images/April.jpg" alt="April's profile picture" class="circle responsive-img"> <!-- notice the "circle" class -->
+            </div>
+            <div class="col s9">
+              <span class="black-text">
+                April is an undergraduate Computational and Systems Biology major, and is interested in the role and effectiveness of supplementary educational material across different fields of study.
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- End Jen's profile -->
