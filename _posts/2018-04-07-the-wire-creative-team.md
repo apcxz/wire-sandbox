@@ -141,6 +141,7 @@ You can copy and edit the following html code example:
     </li>
  <!-- End Jeannie's profile -->
  
+ 
 <!-- Start April's profile -->
 <div class="col s12 offset-m2 l6 offset-l3">
         <div class="card-panel grey lighten-5 z-depth-1">
@@ -156,4 +157,4 @@ You can copy and edit the following html code example:
           </div>
         </div>
       </div>
-<!-- End Jen's profile -->
+<!-- End April's profile -->
